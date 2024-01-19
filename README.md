@@ -7,7 +7,7 @@ Task: Select what gives the best results for classification from the given archi
 Used Kaggle dataset: https://www.kaggle.com/datasets/gpiosenka/sports-classification 
 
 # Conclusions
-
+ 
 Best pretrain model: ResNet50.
 
 On imbalanced dataset: Average accuracy on test dataset: 89.4 %
