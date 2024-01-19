@@ -1,6 +1,6 @@
 # computer-vision-classification
 
-## Classification of sports images and experiments
+## Classification of sports images and experiments with preprocessing of data
 
 Used Kaggle dataset: https://www.kaggle.com/datasets/gpiosenka/sports-classification 
 
