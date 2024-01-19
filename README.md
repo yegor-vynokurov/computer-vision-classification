@@ -1,10 +1,14 @@
-# computer-vision-classification
+# Computer vision classification
 
-## Classification of sports images and experiments with preprocessing of data
+## And experiments with preprocessing of data
+
+Task: Select what gives the best results for classification from the given architectural solutions. Check how class imbalance affects accuracy. Test the accuracy of the best model on balanced classes. Check the dataset for outliers and compare the training accuracy. Check how much the accuracy of the model changes if you use only the contours in the image instead of the original images.
 
 Used Kaggle dataset: https://www.kaggle.com/datasets/gpiosenka/sports-classification 
 
 # Conclusions
+
+Best pretrain model: ResNet50.
 
 On imbalanced dataset: Average accuracy on test dataset: 89.4 %
 
